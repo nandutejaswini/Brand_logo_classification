@@ -11,9 +11,9 @@
     <br />
     <a href="#usage">Usage</a>
     ·
-    <a href="https://github.com/UF-FundMachineLearning-Sp23/final-project-the-gator-classifiers/issues">Report Bug</a>
+    <a href="https://github.com/nandutejaswini/Brand_logo_classificationissues">Report Bug</a>
     ·
-    <a href="https://github.com/UF-FundMachineLearning-Sp23/final-project-the-gator-classifiers/issues">Request Feature</a>
+    <a href="https://github.com/nandutejaswini/Brand_logo_classification/issues">Request Feature</a>
   </p>
 </p>
 
@@ -86,7 +86,7 @@ Note that if using HiperGator, all dependencies should be automatically included
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/UF-FundMachineLearning-Sp23/final-project-the-gator-classifiers.git
+   git clone  https://github.com/nandutejaswini/Brand_logo_classification.git
    ```
 2. Setup (and activate) your conda environment
 
